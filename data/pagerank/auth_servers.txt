@@ -1,0 +1,2 @@
+dns2.kulnet.kuleuven.be.
+dns1.kulnet.kuleuven.be.
