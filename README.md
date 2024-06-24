@@ -1,7 +1,7 @@
 ## Investigating the Amplification Potential of Common UDP-Based Protocols in DDoS Attacks across Belgium and Luxembourg
 
 ### Overview
-This repository contains the code and resources developed for my Bachelor's thesis at TU Delft, in the EEMCS (Electrical Engineering, Mathematics and Computer Science) faculty, for the CSE (Computer Science and Engineering) degree.
+This repository contains the code and resources developed for my Bachelor's thesis, in the EEMCS (Electrical Engineering, Mathematics and Computer Science) faculty, for the CSE (Computer Science and Engineering) degree, during the [CSE3000 - Research Project](https://github.com/TU-Delft-CSE/Research-Project) course at [TUDelft](https://github.com/TU-Delft-CSE), in [2024/Q4](https://cse3000-research-project.github.io/2024/Q4).
 The project focuses on investigating the amplification potential of three commonly exploited UDP-based protocols: DNS, NTP, and Memcached. 
 This study was conducted within the network infrastructure in Belgium and Luxembourg to identify potential vulnerabilities and correlations that influence the weaponization of these protocols in Distributed Reflection Denial-of-Service (DRDoS) attacks.
 The responsible professor of this thesis was [Professor Georgios Smaragdakis](https://gsmaragd.github.io/) and the supervisor was [Professor Harm Griffioen](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/cybersecurity/people/harm-griffioen).
